@@ -1,2 +1,1 @@
-# pullreq
-チュートリアル用です。
+# Hello, Pull Request
